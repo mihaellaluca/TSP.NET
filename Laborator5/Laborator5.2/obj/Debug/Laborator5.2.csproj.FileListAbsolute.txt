@@ -1,0 +1,11 @@
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\Laborator5.2.exe.config
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\Laborator5.2.exe
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\Laborator5.2.pdb
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\EntityFramework.dll
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\EntityFramework.SqlServer.dll
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\EntityFramework.xml
+E:\ceva TSP\Laborator5\Laborator5.2\bin\Debug\EntityFramework.SqlServer.xml
+E:\ceva TSP\Laborator5\Laborator5.2\obj\Debug\Laborator5.2.csprojAssemblyReference.cache
+E:\ceva TSP\Laborator5\Laborator5.2\obj\Debug\Laborator5.2.csproj.CopyComplete
+E:\ceva TSP\Laborator5\Laborator5.2\obj\Debug\Laborator5.2.exe
+E:\ceva TSP\Laborator5\Laborator5.2\obj\Debug\Laborator5.2.pdb

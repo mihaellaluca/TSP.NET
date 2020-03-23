@@ -1,0 +1,9 @@
+E:\ceva TSP\calculator\calculator\bin\Debug\calculator.exe.config
+E:\ceva TSP\calculator\calculator\bin\Debug\calculator.exe
+E:\ceva TSP\calculator\calculator\bin\Debug\calculator.pdb
+E:\ceva TSP\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+E:\ceva TSP\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\ceva TSP\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\ceva TSP\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\ceva TSP\calculator\calculator\obj\Debug\calculator.exe
+E:\ceva TSP\calculator\calculator\obj\Debug\calculator.pdb
