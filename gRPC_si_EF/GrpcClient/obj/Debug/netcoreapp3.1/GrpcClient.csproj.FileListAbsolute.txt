@@ -1,0 +1,16 @@
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\Mihaela\TSP.NET\gRPC_si_EF\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
